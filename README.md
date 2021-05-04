@@ -6,7 +6,7 @@ With a single tap on a hexagon view the view will be centered and a double tap e
 
 It is mandatory that your **ViewController** contains an **UIScrollView**.
 
-```
+``` Swift
 class ViewController: UIViewController {
     
     // MARK: - Outlets
